@@ -1,0 +1,2 @@
+# Video-Surveillance-System-to-Identify-and-Track-the-Target-person
+—Video Surveillance System is a used for preventing abnormal activity of the persons which leads to crime, loss of property or loss of lives. The abnormal persons are targeted by their activity and tracked across multiple frames to ensure the security of the public. This can be done effectively by our project of Video Surveillance System to identify and Track the Target person using Multi-Task Mask RCNN.
